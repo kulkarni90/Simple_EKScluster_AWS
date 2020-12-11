@@ -4,3 +4,5 @@ Using the file in this reposiroty lets create a EKS cluster with one VPC and two
 Make sure that the subnets should be in different available zones within the same region and under same VPC
 
 <h4> Let's begin </h4>
+
+<h2>Prerequsets:</h2> 
