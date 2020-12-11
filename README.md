@@ -14,7 +14,7 @@ Make sure that the subnets should be in different available zones within the sam
        >> Terraform <br>
        >> kubectl <br>
        
-    <h5>Steps to install AWS cli & Configure AWS account</h5>
+  <h5>Steps to install AWS cli & Configure AWS account</h5>
     
      curl https://s3.amazonaws.com/aws-cli/awscli-bundle.zip -o    awscli-bundle.zip
    
