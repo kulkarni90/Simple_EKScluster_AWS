@@ -6,8 +6,8 @@ Make sure that the subnets should be in different available zones within the sam
 <h3> Let's begin </h3>
 
 <h5>Prerequsets:</h5>
-   AWS Account</l>
-   AWScli installed in local machine</n>
+   AWS Account<br>
+   AWScli installed in local machine</br>
    Aws Configure to local machine 
    
     
