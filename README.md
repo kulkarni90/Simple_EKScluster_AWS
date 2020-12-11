@@ -32,8 +32,7 @@ Make sure that the subnets should be in different available zones within the sam
         AWS Secret Access Key [None]: <enter your secret key><br>
         Default region name [None]: <your region><br>
         Default output format [None]: <your output format if any or else press enter><br>
-  
-    Now AWS CLI lets you interact with AWS without using the web interface.
+  *Now AWS CLI lets you interact with AWS without using the web interface.
 
         
 
