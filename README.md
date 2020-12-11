@@ -26,11 +26,8 @@ Make sure that the subnets should be in different available zones within the sam
        ./awscli-bundle/install -i /usr/local/aws -b /usr/local/bin/aws
        $aws --version    # to check proper proper install and version of Awscli
 <h5>Configure cli</h5>
-             $aws configure
-             AWS Access Key ID [None]:
-             AWS Secret Access Key [None]:
-Default region name [None]:
-Default output format [None]:
+
+   
 *Now AWS CLI lets you interact with AWS without using the web interface.
 
         
