@@ -24,7 +24,9 @@ Make sure that the subnets should be in different available zones within the sam
 
        sudo apt-get install unzip - if you dont have unzip in your system
        ./awscli-bundle/install -i /usr/local/aws -b /usr/local/bin/aws
-
+       $aws --version
+<h5>Configure cli</h5>
+       $aws configure
 
    
     
