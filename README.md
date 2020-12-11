@@ -6,13 +6,13 @@ Make sure that the subnets should be in different available zones within the sam
 <h3> Let's begin </h3>
 <h4>Prerequisites:</h4>
    AWS account with admin privileges<br>
-      ->Create access key<br>
-      ->Download key file<br>
+       -> Create access key<br>
+       -> Download key file<br>
   <h6> Install the following:</h6>
-      ->AWS cli<br>
-      ->Configure cli<br>
-      ->Terraform <br>
-      ->kubectl <br>
+       -> AWS cli<br>
+       -> Configure cli<br>
+       -> Terraform <br>
+       -> kubectl <br>
    
     
 
