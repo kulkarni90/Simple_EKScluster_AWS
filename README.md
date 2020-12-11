@@ -32,7 +32,7 @@ Make sure that the subnets should be in different available zones within the sam
           Default region name [None]: <your prefered region><br>
           Default output format [None]: <None><br>
    
-  # Now AWS CLI lets you interact with AWS without using the web interface.
+  *Now AWS CLI lets you interact with AWS without using the web interface.
 
         
 
