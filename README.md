@@ -27,12 +27,12 @@ Make sure that the subnets should be in different available zones within the sam
        $aws --version    # to check proper proper install and version of Awscli
 <h5>Configure cli</h5>
     
-      $aws configure<br>
-        AWS Access Key ID [None]: <enter your access key><br>
-        AWS Secret Access Key [None]: <enter your secret key><br>
-        Default region name [None]: <your region><br>
-        Default output format [None]: <your output format if any or else press enter><br>
-  *Now AWS CLI lets you interact with AWS without using the web interface.
+      $aws configure
+        AWS Access Key ID [None]: <enter your access key>
+        AWS Secret Access Key [None]: <enter your secret key>
+        Default region name [None]: <your region>
+        Default output format [None]: <your output format if any or else press enter>
+  <i>Now AWS CLI lets you interact with AWS without using the web interface.</i>
 
         
 
