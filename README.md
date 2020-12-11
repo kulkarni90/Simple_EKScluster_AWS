@@ -10,7 +10,7 @@ Make sure that the subnets should be in different available zones within the sam
   <li> Create access key</li>
   <li>Download key file</li>
   </ul>  
-  <h6> Install the following:</h6>
+ Install the following:
  <ul>
        <li> AWS cli</li>
        <li>Configure cli</li>
