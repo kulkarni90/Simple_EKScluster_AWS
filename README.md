@@ -4,11 +4,10 @@ Using the file in this reposiroty lets create a EKS cluster with one VPC and two
 Make sure that the subnets should be in different available zones within the same region and under same VPC
 
 <h3> Let's begin </h3>
-
-<h5>Prerequsets:</h5>
+<h4>Prerequsets:</h4>
    AWS Account<br>
    AWScli installed in local machine</br>
-   Aws Configure to local machine 
+   Aws Configure to local machine<br>
    
     
 
